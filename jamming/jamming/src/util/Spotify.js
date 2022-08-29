@@ -1,5 +1,7 @@
 const clientId = 'e4acea23e0c64f91bf07f82a6a32c766';
-const redirectUri = 'http://localhost:3000';
+/// const redirectUri = 'http://nutritious-support.surge.sh';
+const redirectUri = 'http://localhost:3000/';
+
 let accessToken;
 
 const Spotify = {
